@@ -1,0 +1,28 @@
+.MuiDataGrid-columnHeaders {
+  background-color: gainsboro !important;
+}
+
+.ContentButton {
+  height: 20px;
+  padding: 2px 6px;
+  background-color: #51a1dc;
+  border-radius: 3px;
+  border: none;
+  text-transform: none !important;
+  /* box-shadow: 2px 1px 8px rgba(50, 50, 50, 0.5); */
+}
+
+.CancleButton {
+  height: 20px;
+  padding: 2px 6px;
+  /* background-color: #fb6067; */
+  border-radius: 3px;
+  border: none;
+  text-transform: none;
+  /* box-shadow: 2px 1px 8px rgba(50, 50, 50, 0.5); */
+}
+
+.swal2-shown > [aria-hidden="true"] {
+  transition: 0.1s filter;
+  filter: blur(10px);
+}

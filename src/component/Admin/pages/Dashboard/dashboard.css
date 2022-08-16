@@ -1,0 +1,9 @@
+.Dashboard__Appbar {
+  background-color: white !important;
+}
+
+.Dashboard__Tab {
+  text-transform: none !important;
+  font-size: 1em !important;
+  font-weight: bolder !important;
+}

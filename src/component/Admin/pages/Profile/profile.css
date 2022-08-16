@@ -1,0 +1,38 @@
+.Profile__CaseID {
+  font-weight: 400;
+  font-size: 1.75 rem;
+  /* margin-bottom: 1rem; */
+}
+
+.Claiment {
+  border: 1px solid #ddd;
+}
+
+.details {
+  border-right: 1px solid #ddd;
+}
+
+.Respondent {
+  border: 1px solid #ddd;
+  border-top: none;
+  border-right: none;
+}
+
+.Profile__respondent {
+  padding-top: 25px !important;
+  border-right: 1px solid #ddd;
+}
+
+.Profile__DownlodBtn {
+  margin-bottom: 10px !important;
+  border-radius: 5px !important;
+  height: 25px;
+  background-color: #5dca73 !important;
+  color: white;
+  text-transform: none !important;
+  font-weight: bold !important;
+}
+
+.Profile_backBtn {
+  padding: 10px;
+}
